@@ -1,0 +1,27 @@
+body{
+	padding:20px;
+	margin:0px;
+	height:100%;
+	width:100%;
+	background-color:Lavender;
+}
+#header{
+	vertical-align:25px;
+	font-family:"San Lucida Unicode",Verdana,Tahoma;
+	color:#600000;
+	line-height:3;
+}
+.div_tag{
+	height:100px;
+	width:auto;
+	text-align:left;
+	font-style:oblique;
+	font-weight:bold;
+	
+}
+p{
+	color:green;
+}
+#freq-ans{
+	color:orange;
+}

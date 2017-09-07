@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+		xmlns:gap = "http://phonegap.com/ns/1.0"
+		id = "com.hardwaredesign.calculator"
+		version = "1.0">
+<name>HD Calculator</name>
+<description>For calculations done while designing a circuit</description>
+<author email="okekechekwube1@gmail.com">liotech</author>
+
+<preference name="permissions" value="none"/>
+<icon src="res/icon/android/mipmap-ldpi/ic_launcher.png" gap:platform="android" gap:qualifier="ldpi" />
+<icon src="res/icon/android/mipmap-mdpi/ic_launcher.png" gap:platform="android" gap:qualifier="mdpi" />
+<icon src="res/icon/android/mipmap-hdpi/ic_launcher.png" gap:platform="android" gap:qualifier="hdpi" />
+<icon src="res/icon/android/mipmap-xhdpi/ic_launcher.png" gap:platform="android" gap:qualifier="xhdpi" />
+<icon src="res/icon/android/mipmap-xxhdpi/ic_launcher.png" gap:platform="android" gap:qualifier="xxhdpi" />
+<icon src="res/icon/android/mipmap-xxxhdpi/ic_launcher.png" gap:platform="android" gap:qualifier="xxxhdpi" />
+<icon src="res/icon/ios/Icon-App-76x76@1x.png" gap:platform="ios" gap:qualifier=""/>
+<icon src="res/icon/ios/Icon-App-57x57@1x.png" gap:platform="ios" width="57" height="57" />
+<icon src="res/icon/ios/Icon-App-20x20@1x.png" gap:platform="ios" width="72" height="72" />
+<icon src="res/icon/ios/Icon-App-20x20@2xpng" gap:platform="ios" width="114" height="114" />
+<icon src="res/icon/ios/Icon-App-29x29@3x.png" gap:platform="ios" width="144" height="144" />
+</widget>

@@ -1,0 +1,24 @@
+body{
+	padding:20px;
+	margin:0px;
+	height:60%;
+	width:80%;
+	background-color:Lavender;
+}
+.div_tag{
+		height:100px;
+		width:auto;
+		text-align:center;
+		font-style:oblique;
+		font-weight:bold;
+		
+		line-height:3;
+}
+div div{
+	color:green;
+}
+#header{
+	vertical-align:40px;
+	font-family:"San Lucida Unicode",Verdana,Tahoma;
+	color:#600000;
+}
